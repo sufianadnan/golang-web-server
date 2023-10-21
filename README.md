@@ -42,11 +42,11 @@ Here's a brief overview of the project files:
 
 ## Endpoints
 
-1. `/`` - Serves the index.html page, the landing page of the project.
+1. `/` - Serves the index.html page, the landing page of the project.
 
-2. `/form`` - Handles form submissions from the form.html page. It parses and displays the submitted data.
+2. `/form` - Handles form submissions from the form.html page. It parses and displays the submitted data.
 
-3. `/hello`` - Responds with a "hello" message when you access this endpoint.
+3. `/hello` - Responds with a "hello" message when you access this endpoint.
 
 ## Author
 
