@@ -18,6 +18,7 @@ func formHandler(w http.ResponseWriter, r *http.Request) {
 }
 
 func helloHandler(w http.ResponseWriter, r *http.Request) {
+	// Note: the page not found is not needed here
 	if r.Method != "GET" {
 		http.Error(w, "method is not supported", http.StatusNotFound)
 		return
