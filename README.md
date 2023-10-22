@@ -26,7 +26,7 @@ Follow these simple steps to run my Golang web server project:
    ```
 3. Build and run the Golang web server:
    ```bash
-   go run main.go
+   go run ./cmd/web
    ```
 4. Open your web browser and visit http://localhost:8080 to explore the project.
 
